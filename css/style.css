@@ -1,0 +1,224 @@
+body{
+	margin: 0px;
+	border: 0px;
+	background-attachment: fixed;
+	background-image: url("../harneet/logo1.jpg");
+}
+ul{
+	margin: 0px;
+	border: 0px;
+}
+
+#header{
+	width:100%;
+	height:55px;
+	position:fixed;
+	top: 0px;
+	background-color: black;
+		
+	}
+	#footer{
+	width:100%;
+	height:55px;
+	background-color: black;
+
+	}
+	#image
+	{
+		margin-left: 60px;
+		opacity: 1;
+		width:400px;
+		height:50px;
+	}
+	#image2{
+		opacity: 0.7;
+		width:300px;
+		height:300px;
+	}
+	#image3{
+		opacity: 0.5;
+		width:300px;
+		height:300px;
+	}
+	#image4{
+		opacity: 0.7;
+		width:300px;
+		height:300px;
+	}
+	#image5{
+		opacity: 0.7;
+		width:450px;
+		height:300px;
+	}
+	#esports{
+		
+		width:200px;
+		height:50px;
+	}
+	#fblogo{
+		width:70px;
+		height:50px;
+	}
+	#twitterlogo{
+		width:70px;
+		height:50px;
+	}
+	#youtubelogo{
+		width:70px;
+		height:50px;
+	}
+	}
+	#head{
+		opacity: 0.7;
+	}
+	#heroimage{
+		width: 950px;
+		height: 400px;
+		padding-left: 160px;
+		opacity: 0.8;
+	}
+	#register{
+		opacity: 0.7;
+	}
+	#compete{
+		opacity: 0.7;
+	}
+	#win{
+		opacity: 0.7;
+	}
+	#sociallogo{
+		opacity: 0.5;
+		padding-left: 60px;
+	}
+	#Contact{
+		
+		float: right;
+		color: white;
+	}
+ul{
+	float: right;
+}
+ ul li{
+	float: left;
+	list-style: none;
+	height: 25px;
+	text-align: center;
+	}
+ ul li a{
+	color: white;
+	text-decoration: none;
+	padding: 15px;
+	font-size: 20px;
+	display: block;
+
+}
+ ul li a:hover{
+	background-color: red;
+}
+ ul li ul li{
+
+	display: none;
+	float: bottom;
+}
+ ul li:hover ul li{
+	display: block;
+
+}
+ul li ul{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	height: 54px;
+	background-color: black;
+	float: left;
+}
+
+.container{
+	padding-top: 120px;
+
+}
+
+.container1{
+	padding-top: 120px;
+	
+}
+.container2{
+	padding-top: 120px;
+	
+}
+.container3{
+	padding-top: 120px;
+}
+.container4{
+	padding-top: 120px;
+	padding-bottom: 100px;
+}
+#image2{
+	padding-right: 100px;
+}
+#quote{
+	width: 100%;
+	height: 100px;
+	 font-family: 'Tangerine', serif;
+        
+}
+#quote h1
+{
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+#h2green{
+	color: green;
+}
+#h2red{
+	color: red;
+}
+#h1red{
+	color: red;
+	padding-left: 45px;
+}
+#h2white{
+	color: white;
+}
+#h2white{
+	color: white;
+	padding-left: 25px;
+}
+#copyright{
+		color: white;
+}
+#h1white1{
+	color: blue;
+	font-size: 300%;	
+}
+#h1red1{
+	color: red;
+	padding-left: 5px;
+}
+#h2white1{
+	color: white;
+	padding-left: 20px;
+}
+#parayellow{
+	color: yellow;
+}
+#parayellow1{
+	color: yellow;
+}
+#parayellow2{
+	color: yellow;
+}
+#h1red2{
+	color: red;
+	padding-left: 45px;
+}
+#h2white2{
+	color: white;
+	padding-left: 45px;
+
+}
+#h2yellow{
+	color: yellow;
+}
